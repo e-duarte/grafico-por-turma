@@ -1,0 +1,23 @@
+{
+
+    "subject": "PORTUGUÊS",
+    "vars": [
+        "ESCREVE PALAVRAS",
+        "ESCREVE FRASES A PARTIR DE UMA IMAGEM",
+        "PRODUZ TEXTOS BREVES",
+        "LEITURA"
+    ],
+    "data_validation":[
+        ["SIM", "NÃO"],
+        ["SIM", "NÃO"],
+        ["SIM", "NÃO"],
+        [
+            "NÃO SABE LER",
+            "LÊ PALAVRAS CANÔNICAS",
+            "LÊ PALAVRAS NÃO CANÔNICAS",
+            "LÊ FRASES",
+            "LÊ PEQUENOS TEXTOS COM PROSÓDIA DEFICIENTE",
+            "LÊ PEQUENOS TEXTOS COM FLUÊNCIA"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "subject": "MATEMÁTICA",
+    "vars": [
+        "ADIÇÃO",
+        "SUBTRAÇÃO",
+        "MULTIPLICAÇÃO",
+        "DIVISÃO"
+    ],
+    "values":[
+        ["SIM", "NÃO", "PARCIAL"],
+        ["SIM", "NÃO", "PARCIAL"],
+        ["SIM", "NÃO", "PARCIAL"],
+        ["SIM", "NÃO", "PARCIAL"]
+    ]
+}

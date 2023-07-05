@@ -1,0 +1,21 @@
+{
+    "subject": "PORTUGUÊS",
+    "vars": [
+        "ESCREVE TEXTOS COM COESÃO",
+        "ESCREVE TEXTOS COM COERÊNCIA",
+        "UTILIZA PONTUAÇÃO",
+        "POSSUI DOMÍNIO DA ESCRITA ORTOGRÁFICA",
+        "UTILIZA PARAGRÁFOS NA PRODUÇÃO DE TEXTOS",
+        "TRANSLINEAÇÃO SILÁBICA",
+        "LEITURA"
+    ],
+    "values":[
+        ["SIM", "NÃO", "PARCIAL"],
+        ["SIM", "NÃO", "PARCIAL"],
+        ["SIM", "NÃO", "PARCIAL"],
+        ["SIM", "NÃO", "PARCIAL"],
+        ["SIM", "NÃO", "PARCIAL"],
+        ["SIM", "NÃO", "PARCIAL"],
+        ["NÃO LÊ","LÊ SILABANDO","LÊ COM PROSÓDIA","LÊ COM FLUÊNCIA"]
+    ]
+}

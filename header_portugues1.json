@@ -1,0 +1,20 @@
+{
+    "subject": "PORTUGUÊS",
+    "vars": [
+        "IDENTIFICA E NOMEIA AS LETRAS DO ALFABETO",
+        "ESCREVE O NOME PRÓPRIO",
+        "LEITURA"
+    ],
+    "data_validation":[
+        ["SIM", "NÃO"],
+        ["SIM", "NÃO"],
+        [
+            "NÃO SABE LER",
+            "LÊ PALAVRAS CANÔNICAS",
+            "LÊ PALAVRAS NÃO CANÔNICAS",
+            "LÊ FRASES",
+            "LÊ PEQUENOS TEXTOS COM PROSÓDIA DEFICIENTE",
+            "LÊ PEQUENOS TEXTOS COM FLUÊNCIA"
+        ]
+    ]
+}
